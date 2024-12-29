@@ -1,0 +1,14 @@
+C:\Курс C#\Lesson7.1\Lesson7.1\bin\Debug\net9.0\Lesson7.1.exe
+C:\Курс C#\Lesson7.1\Lesson7.1\bin\Debug\net9.0\Lesson7.1.deps.json
+C:\Курс C#\Lesson7.1\Lesson7.1\bin\Debug\net9.0\Lesson7.1.runtimeconfig.json
+C:\Курс C#\Lesson7.1\Lesson7.1\bin\Debug\net9.0\Lesson7.1.dll
+C:\Курс C#\Lesson7.1\Lesson7.1\bin\Debug\net9.0\Lesson7.1.pdb
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.AssemblyInfoInputs.cache
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.AssemblyInfo.cs
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.csproj.CoreCompileInputs.cache
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.dll
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\refint\Lesson7.1.dll
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.pdb
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\Lesson7.1.genruntimeconfig.cache
+C:\Курс C#\Lesson7.1\Lesson7.1\obj\Debug\net9.0\ref\Lesson7.1.dll
