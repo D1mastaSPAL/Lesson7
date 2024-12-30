@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson7.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C8F01A5-1119-47A0-B400-CAB894C6EE17}|Task2\\Lessons7.2.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson7.1\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8F01A5-1119-47A0-B400-CAB894C6EE17}|Task2\\Lessons7.2.csproj|solutionrelative:task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE1D337A-4D73-4B94-B922-B25549EFED67}|Lesson7.1\\Lesson7.1.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson7.1\\lesson7.1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1D337A-4D73-4B94-B922-B25549EFED67}|Lesson7.1\\Lesson7.1.csproj|solutionrelative:lesson7.1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8F01A5-1119-47A0-B400-CAB894C6EE17}|Task2\\Lessons7.2.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson7.1\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8F01A5-1119-47A0-B400-CAB894C6EE17}|Task2\\Lessons7.2.csproj|solutionrelative:task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Task1.cs",
               "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson7.1\\Lesson7.1\\Task1.cs",
               "RelativeDocumentMoniker": "Lesson7.1\\Task1.cs",
               "ToolTip": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson7.1\\Lesson7.1\\Task1.cs",
               "RelativeToolTip": "Lesson7.1\\Task1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T16:46:27.201Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson7.1\\Task2\\Task2.cs",
               "RelativeDocumentMoniker": "Task2\\Task2.cs",
               "ToolTip": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson7.1\\Task2\\Task2.cs",
               "RelativeToolTip": "Task2\\Task2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T19:31:45.129Z",
               "EditorCaption": ""

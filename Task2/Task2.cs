@@ -19,10 +19,10 @@ internal class Task2
             }
             Console.WriteLine();
         }
-        IsTrueMethod(matrix);
+        maxValueRowMethod(matrix);
     }
 
-    public static bool IsTrueMethod(int[,] matrix)
+    public static void maxValueRowMethod(int[,] matrix)
     {
         int num = 0;
         for (int y = 0; y < matrix.GetLength(1); y++)
@@ -35,6 +35,5 @@ internal class Task2
             }
             Console.WriteLine($"Максимальное значение ряда {num}: {numberMax}");
         }
-        return true;
     }
 }

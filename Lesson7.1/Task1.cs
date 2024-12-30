@@ -11,8 +11,7 @@ internal class Task1
         {
             Console.WriteLine($"Введите число {num++}: ");
             var inputNumbers = Console.ReadLine();
-
-            if (int.TryParse(inputNumbers , out var count) && count > 0)
+            if (int.TryParse(inputNumbers , out var count))
             {
                 ArrayInputConsole[i] = count;
             }
